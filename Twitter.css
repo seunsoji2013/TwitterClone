@@ -1,0 +1,41 @@
+body {
+    font-family: 'Oswald', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background: grey;
+}
+div {
+    border: 3px solid white;  
+    color: black;
+    background-color: white;
+    height: 600px;
+    width: 600px;
+    border-radius: 10px;
+    margin: auto;
+    margin-top: 50px;
+}
+div .tayo {
+    margin-left: 280px;
+    margin-top: 15px;
+}
+div h1 {
+    text-align: center;
+}
+div button {
+    margin-left: 150px;
+    padding: 10px 30px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-radius: 300px;
+    width: 300px;
+    background-color: white;
+}
+div .paul {
+    background: black;
+    color: white;
+}
+ div p {
+    width: 400px;
+    margin-left: 110px;
+    text-align: center;
+    margin-bottom: 50px;
+ }
